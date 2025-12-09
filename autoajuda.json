@@ -1,0 +1,15 @@
+{
+  "ajudas": [
+    {
+      "chaves": ["travamento", "lento", "lentidão", "lentidao"],
+      "titulo": "Resolver Travamento",
+      "resposta": "Dica rápida: Feche o app, limpe o cache do dispositivo e reabra. Se persistir, verifique sua conexão de internet.",
+      "link": "https://youtu.be/exemplo-travamento"
+    },
+    {
+      "chaves": ["erro", "bug", "não funciona"],
+      "titulo": "Problemas de Erro",
+      "resposta": "Tente atualizar o app para a versão mais recente. Se o erro continuar, envie uma screenshot para o suporte."
+    }
+  ]
+}

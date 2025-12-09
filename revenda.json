@@ -1,0 +1,24 @@
+{
+  "planos_revenda": [
+    {
+      "creditos": 10,
+      "valor_unitario": 13.00,
+      "valor_total": 130.00
+    },
+    {
+      "creditos": 20,
+      "valor_unitario": 12.00,
+      "valor_total": 240.00
+    },
+    {
+      "creditos": 50,
+      "valor_unitario": 11.00,
+      "valor_total": 550.00
+    },
+    {
+      "creditos": 100,
+      "valor_unitario": 10.00,
+      "valor_total": 1000.00
+    }
+  ]
+}

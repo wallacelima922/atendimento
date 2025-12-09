@@ -1,0 +1,30 @@
+[
+  {
+    "id": "plano_mensal",
+    "nome": "📅 Mensal",
+    "valor": "R$ 25,00",
+    "descricao": "Acesso por 30 dias",
+    "pix_manual": "00020126360014BR.GOV.BCB.PIX0114...CHAVE_MENSAL..."
+  },
+  {
+    "id": "plano_trimestral",
+    "nome": "📅 Trimestral",
+    "valor": "R$ 65,00",
+    "descricao": "Acesso por 90 dias (Desconto)",
+    "pix_manual": "00020126360014BR.GOV.BCB.PIX0114...CHAVE_TRIMESTRAL..."
+  },
+  {
+    "id": "plano_semestral",
+    "nome": "📅 Semestral",
+    "valor": "R$ 120,00",
+    "descricao": "Acesso por 180 dias",
+    "pix_manual": "00020126360014BR.GOV.BCB.PIX0114...CHAVE_SEMESTRAL..."
+  },
+  {
+    "id": "plano_anual",
+    "nome": "📅 Anual",
+    "valor": "R$ 200,00",
+    "descricao": "Acesso por 365 dias (Melhor Oferta)",
+    "pix_manual": "00020126360014BR.GOV.BCB.PIX0114...CHAVE_ANUAL..."
+  }
+]

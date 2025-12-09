@@ -1,0 +1,22 @@
+{
+  "name": "bot-unitv-modular",
+  "version": "3.0.0",
+  "description": "Bot e Painel Separados",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js",
+    "painel": "node painel.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.8",
+    "axios": "^1.13.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "pino": "^8.16.2",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite3": "^5.1.6"
+  }
+}
